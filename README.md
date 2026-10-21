@@ -4,6 +4,12 @@ Install the Administrator Console once and manage multiple TrackMania Forever
 servers on the same computer. Each server keeps its own controller, configuration,
 Python environment and database. The complete controller source is included.
 
+## Download
+
+[Download PyXaseco Administrator Console for Windows and Linux](https://github.com/nilakite2/PyXaseco-Administrator-Console/releases/latest)
+
+Open **Assets** on the release page to find the installers.
+
 ## Windows
 
 1. Run **PyXasecoSetup.exe** and choose a shared-tools folder separate from your
